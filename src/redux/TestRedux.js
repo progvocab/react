@@ -1,5 +1,7 @@
 import React from 'react';
-import './style.css';
+import { createStore } from 'redux';
+//import reducer from './reducers/reducer'
+//const store = createStore(reducer);
 
 export default function TestRedux() {
   // Define an initial state value for the app

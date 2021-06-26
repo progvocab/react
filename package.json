@@ -3,8 +3,14 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "react": "^17.0.0",
-    "react-dom": "^17.0.0"
+    "@firebase/app": "0.6.27",
+    "@firebase/app-types": "0.6.2",
+    "@firebase/firestore": "2.3.7",
+    "firebase": "7.24.0",
+    "react": "17.0.0",
+    "react-dom": "17.0.0",
+    "react-redux": "^7.2.4",
+    "redux": "4.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
