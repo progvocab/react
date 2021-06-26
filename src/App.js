@@ -1,5 +1,5 @@
 import React from 'react';
-import TestRedux from './TestRedux.js';
+import TestRedux from './redux/TestRedux.js';
 import './style.css';
 
 export default function App() {
